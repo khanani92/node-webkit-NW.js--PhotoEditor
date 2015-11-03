@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Photo Editor</title>
+        <link rel="stylesheet" href="style/app.css" />
+        <script src="javascript/caman.full.js"></script>
+        <script src="javascript/app.js"></script>
+    </head>
+    <body>
+	    <template id="photo-template">
+    		<div class="photo">
+        		<img />
+    		</div>
+		</template>
+    	<input type="file" nwdirectory id="folderSelector"/>
+        <div id="select_folder">
+    		<span>Select a folder containing photos</span>
+		</div>
+		<div id="photos"></div>
+		<div id="fullViewPhoto">
+    		<img id="image"/>
+    		<div id="toolbar">
+    			<div id="applyFilter" class="button" onclick="applyFilter();">Apply filter</div>
+    			<div id="back" class="button" onclick="backToGridView();">Back</div>
+			</div>
+		</div>
+    </body>
+</html>

@@ -49,8 +49,8 @@ $ nwbuild -p win32,win64,osx32,osx64,linux32,linux64 lens
 ```
 
 #Tutorial Followed
-![Creating a Photo Discovery App with NW.js Part 1]( https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-1)
-![Creating a Photo Discovery App with NW.js Part 2]( https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-2)
+[Creating a Photo Discovery App with NW.js Part 1]( https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-1)
+[Creating a Photo Discovery App with NW.js Part 2]( https://scotch.io/tutorials/creating-a-photo-discovery-app-with-nw-js-part-2)
 
 
 
